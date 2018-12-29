@@ -567,6 +567,9 @@ is enabled
   Benno Fünfstück)
 - Add dante support to haskell layer (thanks to Kyle McKean)
 - Fix: =company-dante= -> =dante-company= (thanks to Leon Isenberg)
+- Improve Haskell REPL bindings: (thanks to Tony Lotts)
+  - Consistent REPL switch to/back bindings (Swap ", s S" and ", s s")
+  - Switch back to buffer from Intero REPL
 **** Helm
 - Limit =ripgrep= results to 150 columns (thanks to Aaron Jensen)
 - Key bindinds for directory search (thanks to Tim Jäger and Eivind Fonn):
