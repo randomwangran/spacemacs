@@ -227,7 +227,10 @@ a sane way, here is the complet list of changed key bindings:
 - Add support for stable ELPA repository hosted on GitHub (thanks to Sylvain
   Benner)
 - Handle backward argument better when cycling themes (thanks to bmag)
-- Remove wizard question about completion engine. (thanks to Sylvain Benner)
+- Remove wizard question about completion engine. (thanks to Sylvain
+  Benner)
+- Make it possible to define an evil state face without an evil
+  cursor. (thanks to Alexander-Miller)
 *** Distribution changes
 - Refactor =spacemacs-ui= and =spacemacs-ui-visual= layers:
   - new =spacemacs-navigation= layer contains packages whose principal goal is
