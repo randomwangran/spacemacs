@@ -192,6 +192,7 @@ a sane way, here is the complet list of changed key bindings:
   mode-line. (thanks to hodge)
 - Add support for building multi-file local packages with =Quelpa=
   (thanks to Andriy Kmit')
+- Add docs export worker. (thanks to Eugene Yaremenko)
 - Improve handling of additional bindings for transient states (thanks to Andriy
   Kmit')
 - Resolve symlinks when warning about duplicate layers (thanks to Ben Gamari)
